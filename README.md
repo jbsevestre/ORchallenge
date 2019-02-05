@@ -11,6 +11,7 @@ In this challenge, I was ranked 12 on 127 participants (top 10%).
 Link of the Kaggle competition : https://www.kaggle.com/c/mva-recvis-2018
 
 All the details about the methods I used for this challenge are described in report.pdf, in the report file.
+The report was limited to 1 page.
 
 ## Object recognition and computer vision 2018/2019
 
