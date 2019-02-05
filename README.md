@@ -2,13 +2,13 @@
 
 Bird image classification competition based on the Caltech-UCSD Birds-200-2011 dataset. 
 
-## Informations
+## Information
 
 This challenge was an assignment for the Object Recognition and Computer Vision course that we had in M.Sc. MVA (ENS Paris-Saclay).
-Here the link of the assignment : https://github.com/willowsierra/recvis18_a3
+Link of the assignment : https://github.com/willowsierra/recvis18_a3
 
 In this challenge, I was ranked 12 on 127 participants (top 10%).
-Here the link of the Kaggle competition : https://www.kaggle.com/c/mva-recvis-2018
+Link of the Kaggle competition : https://www.kaggle.com/c/mva-recvis-2018
 
 All the details about the methods I used for this challenge are described in report.pdf, in the report file.
 
