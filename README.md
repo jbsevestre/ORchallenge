@@ -10,7 +10,7 @@ Here the link of the assignment : https://github.com/willowsierra/recvis18_a3
 In this challenge, I was ranked 12 on 127 participants (top 10%).
 Here the link of the Kaggle competition : https://www.kaggle.com/c/mva-recvis-2018
 
-The method I used for this challenge are described in report.pdf, in the report file.
+All the details about the methods I used for this challenge are described in report.pdf, in the report file.
 
 ## Object recognition and computer vision 2018/2019
 
