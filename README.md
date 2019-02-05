@@ -10,6 +10,10 @@ Here the link of the assignment : https://github.com/willowsierra/recvis18_a3
 In this challenge, I was ranked 12 on 127 participants (top 10%)
 Here the link of the Kaggle competition : https://www.kaggle.com/c/mva-recvis-2018
 
+## Object recognition and computer vision 2018/2019
+
+### Assignment 3: Image classification 
+
 #### Requirements
 1. Install PyTorch from http://pytorch.org
 
